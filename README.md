@@ -97,5 +97,6 @@ Modify student is not implemented yet. =[
 
 ## Future work
 * Add a date option
+* Finalize edit option
 * Learn more react owo
 
