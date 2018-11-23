@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  student_rut: MyString
+  list_number: MyString
+  present: false
+
+two:
+  student_rut: MyString
+  list_number: MyString
+  present: false
